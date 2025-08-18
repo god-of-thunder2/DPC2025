@@ -1,3 +1,6 @@
+// merge to sorted arrays without using extra space
+// approach: shell sort method ( gap method)
+
 import java.util.Scanner;
 
 public class day4 {

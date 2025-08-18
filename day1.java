@@ -1,3 +1,5 @@
+// array only contains 0, 1, 2. sort the array in linear time.
+
 import java.util.Scanner;
 
 public class day1 {
