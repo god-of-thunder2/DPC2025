@@ -1,3 +1,5 @@
+// rain trapping problem
+
 import java.util.Scanner;
 
 public class day7 {
