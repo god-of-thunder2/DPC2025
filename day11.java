@@ -1,3 +1,5 @@
+// same like leetcode 47
+
 import java.util.HashSet;
 import java.util.Set;
 import java.util.List;
